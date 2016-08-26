@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4E1469F81D6CD31D00AB8FD4"
-               BuildableName = "Reusable-tvOS.framework"
+               BuildableName = "Reusable.framework"
                BlueprintName = "Reusable-tvOS"
                ReferencedContainer = "container:Reusable.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4E1469F81D6CD31D00AB8FD4"
-            BuildableName = "Reusable-tvOS.framework"
+            BuildableName = "Reusable.framework"
             BlueprintName = "Reusable-tvOS"
             ReferencedContainer = "container:Reusable.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4E1469F81D6CD31D00AB8FD4"
-            BuildableName = "Reusable-tvOS.framework"
+            BuildableName = "Reusable.framework"
             BlueprintName = "Reusable-tvOS"
             ReferencedContainer = "container:Reusable.xcodeproj">
          </BuildableReference>

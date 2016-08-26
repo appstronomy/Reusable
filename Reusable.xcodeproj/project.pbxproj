@@ -184,6 +184,7 @@
 				TargetAttributes = {
 					4E1469D71D6CD1B000AB8FD4 = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0800;
 					};
 					4E1469F81D6CD31D00AB8FD4 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -355,6 +356,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.appstronomy.Reusable;
 				PRODUCT_NAME = Reusable;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -372,6 +374,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.appstronomy.Reusable;
 				PRODUCT_NAME = Reusable;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -441,6 +444,7 @@
 				4E146A001D6CD31D00AB8FD4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
